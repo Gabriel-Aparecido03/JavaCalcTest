@@ -18,30 +18,30 @@ Funcionalidades que estarão presentes na calculadora.
 O sistema ainda não possui testes automatizados, porém tem cénarios de testes criados 
 
 ### Adição
-  [x] - Somando dois números inteiros positivos
-  [x] - Somando um número positivo e outro negativo
-  [x] - Somando dois números inteiros negativos
-  [x] - Somando um número positivo com zero
-  [x] - Somando um número negativo com zero
+  - [x] - Somando dois números inteiros positivos
+  - [x] - Somando um número positivo e outro negativo
+  - [x] - Somando dois números inteiros negativos
+  - [x] - Somando um número positivo com zero
+  - [x] - Somando um número negativo com zero
 
 ### Subtração
-  [x] - Subtraindo dois números inteiros positivos
-  [x] - Subtraindo um número positivo e outro negativo
-  [x] - Subtraindo dois números inteiros negativos
-  [x] - Subtraindo dois números inteiros negativos
-  [x] - Subtraindo um número negativo com zero
+  - [x] - Subtraindo dois números inteiros positivos
+  - [x] - Subtraindo um número positivo e outro negativo
+  - [x] - Subtraindo dois números inteiros negativos
+  - [x] - Subtraindo dois números inteiros negativos
+  - [x] - Subtraindo um número negativo com zero
 
 ### Multiplação
-  [x] - Multiplicando dois números inteiros positivos
-  [x] - Muliplicando um número positivo e outro negativo
-  [x] - Multiplicando dois números inteiros negativos
-  [x] - Multiplicando um número positivo com zero
+  - [x] - Multiplicando dois números inteiros positivos
+  - [x] - Muliplicando um número positivo e outro negativo
+  - [x] - Multiplicando dois números inteiros negativos
+  - [x] - Multiplicando um número positivo com zero
 
 ### Divisão
-  [x] - Dividindo dois números inteiros positivos
-  [x] - Dividindo um número positivo e outro negativo
-  [x] - Dividindo um número com zero -> Irá voltar um erro - O denominador n�o pode ser igual a zero.
-  [x] - Dividindo dois números inteiros negativos
+  - [x] - Dividindo dois números inteiros positivos
+  - [x] - Dividindo um número positivo e outro negativo
+  - [x] - Dividindo um número com zero -> Irá voltar um erro - O denominador n�o pode ser igual a zero.
+  - [x] - Dividindo dois números inteiros negativos
   
 
 ## Última atualização 2/09/23
