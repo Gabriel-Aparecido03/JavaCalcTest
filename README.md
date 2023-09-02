@@ -31,7 +31,7 @@ O sistema ainda não possui testes automatizados, porém tem cénarios de testes
   - [x] - Subtraindo dois números inteiros negativos
   - [x] - Subtraindo um número negativo com zero
 
-### Multiplação
+### Multiplicação
   - [x] - Multiplicando dois números inteiros positivos
   - [x] - Muliplicando um número positivo e outro negativo
   - [x] - Multiplicando dois números inteiros negativos
