@@ -44,4 +44,4 @@ O sistema ainda não possui testes automatizados, porém tem cénarios de testes
   - [x] - Dividindo dois números inteiros negativos
   
 
-## Última atualização 2/09/23
+## Última atualização 21/09/23
