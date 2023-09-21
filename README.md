@@ -1,4 +1,4 @@
-# # Calculadora Java
+# Calculadora Java
 ## Descrição
 O projeto foi desenvolvido em Java ( Ant ) , no qual é uma calculadora que tem a função : soma,susbtração ,divisão e multiplicação . Foi desenvolvido em cima de testes unitários com a biblioteca JUNT 5.
 
