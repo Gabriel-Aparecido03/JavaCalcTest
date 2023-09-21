@@ -1,6 +1,5 @@
 # Calculadora Java
 ## Descrição
-O jogo foi desenvolvido no Android Studio utilizando a biblioteca libGDX e consiste em uma replica da versão do jogo Flappy Bird.
 O projeto foi desenvolvido em Java ( Ant ) , no qual é uma calculadora que tem a função : soma,susbtração ,divisão e multiplicação . Foi desenvolvido em cima de testes unitários
 
 ## Mecânicas
