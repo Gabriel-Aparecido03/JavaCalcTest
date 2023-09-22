@@ -3,7 +3,6 @@
 O projeto foi desenvolvido em Java ( Ant ) , no qual é uma calculadora que tem a função : soma,susbtração ,divisão e multiplicação . Foi desenvolvido em cima de testes unitários com a biblioteca JUNT 5.
 
 ## Mecânicas
-O personagem (pássaro) se movimenta na horizonta seguindo para a direita, o jogo estabelece uma gravidade no personagem e irão aparecer obstaculos (canos) no caminho do personagem. O jogador deverá tocar na tela do celular para executar pequenos saltos para ultrapassar a abertura entre os canos. A cada ultrapassagem será adicionado um ponto no marcador. Caso o jogador encoste no cano o jogo términa e será apresentado a pontuação que o jogador realizou na partida e a melhor que tenha realizado jogando.
 
 O projeto se baseia em fazer as operações básicas da matemática , onde irá se pode colocar dois valores , e depois terá um retorno do valor , que se resultou da operação escolhida.
 Abaixo uma imagem como funciona os testes com a biblioteca JUNIT5.
