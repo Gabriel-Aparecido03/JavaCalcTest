@@ -1,6 +1,8 @@
 package javaTestCacl;
 /**
  * A simple class for basic arithmetic operations like addition, subtraction, multiplication, and division.
+ * @author Gabriel Aparecido
+ * @version 1.0.0
  */
 public class Calculadora {
 	 /**
